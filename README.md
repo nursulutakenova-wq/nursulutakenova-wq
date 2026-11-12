@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nursulu! 👋
 
-<!--
-**nursulutakenova-wq/nursulutakenova-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student at Astana IT University
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🔐 Interested in Cybersecurity and Ethical Hacking
+- 🐧 Learning Linux, Networking and DevOps
+- 💻 Working with Python, C++ and SQL
+- 🛠️ Exploring Kali Linux and Wireshark
+- 🎨 Interested in 3D Design, Blender and After Effects
+- 🚀 Open to internships and new opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages:** Python, C++, SQL
+- **Operating Systems:** Linux, Kali Linux
+- **Networking:** TCP/IP, IPv4, IPv6, Cisco Packet Tracer
+- **Databases:** PostgreSQL
+- **Creative Tools:** Blender, Adobe After Effects
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile link here
