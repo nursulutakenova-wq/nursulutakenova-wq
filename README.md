@@ -18,4 +18,4 @@
 - **Creative Tools:** Blender, Adobe After Effects
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/nursulu-takenova-3a230144b
